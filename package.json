@@ -1,0 +1,10 @@
+{
+    "name": "aws-users-rest-api-test",
+    "version": "1.0.0",
+    "description": "Serverless CRUD service for testiy APIs",
+    "author": "Viclicioso",
+    "license": "",
+    "dependencies": {
+        "uuid": "^8.3.2"
+    }
+}
